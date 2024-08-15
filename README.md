@@ -1,5 +1,8 @@
-# Job Profile Classification
- 
+# Job Profile Classification Using Machine Learning
+
+ ![image](https://github.com/user-attachments/assets/63bd741f-5855-4dc7-b634-8f4da66365a7)
+
+
 
 ## Table of Contents
 
@@ -45,7 +48,7 @@ The dataset used in this project consists of job profiles containing multiple fe
 
 ## Dataset Overview
 
-**Source:** [Specify the source if publicly available, or mention if it's a private dataset]
+**Source:** https://www.kaggle.com/datasets/yuvjeetarora/student-job-profile
 
 **Features:**
 
